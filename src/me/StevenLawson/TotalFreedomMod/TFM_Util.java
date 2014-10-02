@@ -1,9 +1,3 @@
-1303
-1304
-1305
-1306
-1307
-1308
 package me.StevenLawson.TotalFreedomMod;
 
 import me.StevenLawson.TotalFreedomMod.Config.TFM_ConfigEntry;
