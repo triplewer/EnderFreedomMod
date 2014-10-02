@@ -54,7 +54,7 @@ public class TFM_Util
     public static final List<String> EF_DEVELOPERS = Arrays.asList("ModZXXTerrorist", "crazysh0t260", "gamerdude40");
     public static final List<String> SPECIAL_EXECS = Arrays.asList("Exogenesis233");
     public static final List<String> SYS_ADMINS = Arrays.asList("xHafizMC", "Flamingdragon23");
-    public static final List<String> SYS_ADMINS = Arrays.asList("electrogeorge");
+    public static final List<String> CO_OWNER = Arrays.asList("electrogeorge");
     private static final Random RANDOM = new Random();
     public static String DATE_STORAGE_FORMAT = "EEE, d MMM yyyy HH:mm:ss Z";
     public static final Map<String, ChatColor> CHAT_COLOR_NAMES = new HashMap<String, ChatColor>();
